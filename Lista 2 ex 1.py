@@ -1,7 +1,6 @@
 import math
 
-saque = int(
-    input("Insira a quantidade que deseja sacar (entre 10 e 600 reais): "))
+saque = int(input("Insira a quantidade que deseja sacar (entre 10 e 600 reais): "))
 
 if saque < 10 or saque > 600:
     print('Valor inválido! Insira um valor entre 10 e 600.')
