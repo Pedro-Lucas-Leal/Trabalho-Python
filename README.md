@@ -1,7 +1,7 @@
 # Trabalho-Python
 Lista de exercícios completa
 
-                                                                          // Lista 1 //
+                                                                    // Lista 1 //
 
 1. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 a. Para homens: (72.7*h) - 58
@@ -49,7 +49,7 @@ download do arquivo usando este link (em minutos).
 
 
 
-                                                                          // Lista 2 //
+                                                                    // Lista 2 //
 
 1. Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas.
 As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de
