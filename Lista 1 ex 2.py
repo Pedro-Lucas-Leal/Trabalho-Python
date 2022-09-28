@@ -5,5 +5,4 @@ if peso <= 50:
 else:
     excesso = peso - 50
     multa = 4*excesso
-    print(
-        f'Poxa, o seu peso ultrapassou o limite em {excesso} kg. De acordo com a regra, você terá que pagar {multa} reais de multa... ')
+    print(f'Poxa, o seu peso ultrapassou o limite em {excesso} kg. De acordo com a regra, você terá que pagar {multa} reais de multa... ')
