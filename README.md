@@ -74,7 +74,7 @@ b. Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas 
 
 
 6. Faça um Programa que leia duas estruturas com 10 elementos cada. Gere uma terceira estrutura de 20 elementos, cujos valores deverão ser compostos pelos elementos
-intercalados das duasestruturas.
+intercalados das duas estruturas.
 
 
 
