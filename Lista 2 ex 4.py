@@ -5,5 +5,6 @@ for x in range(5):
     alturasIdades.append(altura)
     idade = int(input(f'Agora coloque a idade da {x+1}ª pessoa: '))
     alturasIdades.append(idade)
+    
 alturasIdades.reverse()
 print(alturasIdades)
